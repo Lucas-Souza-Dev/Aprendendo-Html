@@ -1,2 +1,2 @@
 # Aprendendo-Html
-Conteudos do Curso da Rocketseat
+Alguns Exercicios realizados e projetos pessoais
